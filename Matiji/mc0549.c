@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int n,m,a[10005],l,r,p=0;
+    int n,m,a[300005],l,r,p=0;
     scanf("%d %d",&n,&m);
     for(int i=1;i<=n;i++){
         scanf("%d",&a[i]);
